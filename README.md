@@ -30,7 +30,7 @@ The [preprocessed data](https://github.com/vincentho32/SanFrancisco_airbnb_rent/
 
 ## Result
 
-The [findings](https://public.tableau.com/app/profile/vincent.ho4408/viz/SF_airbnb_rent/Dashboard1) can be found under the "Story" tab of this Tableau dashboard.
+The [findings](https://public.tableau.com/app/profile/vincent.ho4408/viz/SF_airbnb_rent/Dashboard1) can be found under the "Story" tab of the Tableau dashboard.
 
 ## Acknowledgements
 
