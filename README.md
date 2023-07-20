@@ -16,8 +16,8 @@ Rent is one of the biggest expenses if you do not own a house, whether you are a
 
 Exploring the following ideas:
 
-What are the highest and lowest rent neighborhoods in San Francisco?
-What is the price range in different neighborhoods?
+- What are the highest and lowest rent neighborhoods in San Francisco?
+- What is the price range in different neighborhoods?
 
 ## Data
 
