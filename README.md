@@ -28,6 +28,10 @@ All rights belong to the respective owner.
 The [preprocessed data](https://github.com/vincentho32/SanFrancisco_airbnb_rent/blob/main/data/processed/sf_airbnb_rent.csv) is combined by myself. Please see this [preprocessed notebook](https://github.com/vincentho32/SanFrancisco_airbnb_rent/blob/main/SF_airbnb_preprocess.ipynb) for details.
 
 
+## Result
+
+The [findings](https://public.tableau.com/app/profile/vincent.ho4408/viz/SF_airbnb_rent/Dashboard1) can be found under the "Story" tab of this Tableau dashboard.
+
 ## Acknowledgements
 
 Inside Airbnb
