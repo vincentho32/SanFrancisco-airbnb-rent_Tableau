@@ -2,7 +2,7 @@
 
 ![alt text](tableau_image.png)
 
-https://public.tableau.com/authoring/SF_airbnb_rent/Dashboard1#1
+https://public.tableau.com/app/profile/vincent.ho4408/viz/SF_airbnb_rent/Dashboard1
 
 ## Author
 
@@ -21,11 +21,11 @@ What is the price range in different neighborhoods?
 
 ## Data
 
-The original data is found on
+The [original data](https://github.com/vincentho32/SanFrancisco_airbnb_rent/blob/main/data/original/listings.csv) is found on
 [Inside Airbnb](http://insideairbnb.com/get-the-data/)
 All rights belong to the respective owner.
 
-
+The [preprocessed data](https://github.com/vincentho32/SanFrancisco_airbnb_rent/blob/main/data/processed/sf_airbnb_rent.csv) is combined by myself. Please see this [preprocessed notebook](https://github.com/vincentho32/SanFrancisco_airbnb_rent/blob/main/SF_airbnb_preprocess.ipynb) for details.
 
 
 ## Acknowledgements
